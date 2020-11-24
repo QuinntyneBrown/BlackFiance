@@ -1,1 +1,1 @@
-{"RootNamespace":"BlackFiance","Namespace":"BuildingBlocks.Abstractions","Domain":"BlackFiance.Domain","Api":"BlackFiance.Api","Core":"BlackFiance.Core","EntityIdDataType":"Guid"}
+{"RootNamespace":"EventSourcingDistilled","Namespace":"BuildingBlocks.Abstractions","Domain":"EventSourcingDistilled.Domain","Api":"EventSourcingDistilled.Api","Core":"EventSourcingDistilled.Core","EntityIdDataType":"Guid"}

@@ -1,0 +1,8 @@
+{
+  "RootNamespace": "BlackFiance.Service.DigitalAssets",
+  "Namespace": "BlackFiance.Service.DigitalAssets",
+  "Domain": "",
+  "Api": "",
+  "Core": "",
+  "EntityIdDataType": "Guid"
+}
